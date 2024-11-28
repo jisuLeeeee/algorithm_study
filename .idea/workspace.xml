@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9244f244-4af0-4e34-8147-b98930631c77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/hash/완주하지못한선수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/hash/전화번호목록.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/hash/중복된값찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/list/소수만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/list/연속된수열의합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/sort/예산.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/stack/Daily_Temperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/stack/올바른괄호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/queue/두큐합같게만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/regex/신규아이디추천.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dataStructure/stack/괄호회전하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
